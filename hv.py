@@ -3,6 +3,7 @@ with open("horz.txt","r") as file:
 
 ouput = []
 
+# Comment
 for red in lines:
     a = line.split()
     ouput.append(a)
